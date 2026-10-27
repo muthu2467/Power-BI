@@ -1,0 +1,14 @@
+1.What are the Products available in the market for Power BI?  
+Power BI Desktop, Power BI Service, Power BI Report Server, Power BI Mobile, Power BI Embedded, and On-premises Data Gateway.
+
+2.What are the different steps involved in Power BI workflow architecture?  
+Data acquisition, data transformation, data modeling, report creation, publishing, and distribution.
+
+3.Why is Visualization a major building block of Power BI?  
+Because it turns raw data into easy-to-understand charts and dashboards, helping users make decisions quickly.
+
+4.Explain any 3 key benefits of Power BI in the data analytics domain.  
+It provides real-time dashboards, connects to many data sources, and uses AI features for better analysis.
+
+5.What are the different responsibilities of a Power BI developer in the market?  
+They design data models, build reports, optimize performance, connect data sources, manage security, and maintain reports.

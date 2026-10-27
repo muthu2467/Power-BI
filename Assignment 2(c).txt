@@ -1,0 +1,18 @@
+1. What is Power BI?  
+Power BI is a business intelligence tool developed by Microsoft. It helps users visualize data through interactive dashboards and reports. It connects to multiple data sources for analysis and insights.
+
+2. Who uses Power BI?  
+Business analysts, data professionals, and managers commonly use Power BI. Organizations across industries rely on it for decision-making. Even non-technical users benefit from its easy-to-use interface.
+
+3. What is the main purpose of Power BI?  
+Its main purpose is to turn raw data into meaningful insights. It enables better decision-making through visual reports and dashboards. The goal is to simplify data analysis for everyone.
+
+4. How Power BI file get shared or Published?  
+Power BI files (PBIX) can be published to the Power BI Service. They can be shared via dashboards, apps, or embedded in other platforms. Users can also export reports to PDF or share links securely.
+
+5. What is PBIX?  
+PBIX is the file format used by Power BI Desktop. It stores data models, queries, and visualizations. Users create, save, and share reports in PBIX format.
+
+
+
+
